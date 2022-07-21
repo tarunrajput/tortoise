@@ -1,6 +1,6 @@
 <p align="center">
   <a>
-    <img width="100px" src="screenshots/ic_launcher.png">
+    <img width="100px" src="assets/icon.png">
   </a>
   <h1 align="center">Tortoise</h1>  
 </p>
